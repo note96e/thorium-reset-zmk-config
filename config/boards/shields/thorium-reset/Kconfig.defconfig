@@ -1,0 +1,20 @@
+if SHIELD_THORIUM_RESET
+
+config ZMK_KEYBOARD_NAME
+    default "ThoriumReset"
+
+endif
+
+if SHIELD_THORIUM_RESET_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "ThoriumResetL"
+
+endif
+
+if SHIELD_THORIUM_RESET_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "ThoriumResetR"
+
+endif

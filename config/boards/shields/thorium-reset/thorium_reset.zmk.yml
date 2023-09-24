@@ -1,0 +1,12 @@
+file_format: "1"
+id: thoriumreset
+name: ThoriumReset
+type: shield
+url: https://github.com/note96e/thorium
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - thorium_reset
+  - thorium_reset_left
+  - thorium_reset_right
