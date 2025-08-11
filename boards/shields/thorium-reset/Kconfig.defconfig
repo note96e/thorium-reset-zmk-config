@@ -1,4 +1,4 @@
-if SHIELD_THORIUM_RESET
+if SHIELD_THORIUM_RESET_DONGLE
 
 config ZMK_KEYBOARD_NAME
     default "ThoriumReset"

@@ -7,6 +7,6 @@ requires: [seeeduino_xiao_ble]
 features:
   - keys
 siblings:
-  - thorium_reset
+  - thorium_reset_dongle
   - thorium_reset_left
   - thorium_reset_right

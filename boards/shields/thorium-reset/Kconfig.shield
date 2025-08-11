@@ -1,5 +1,5 @@
-config SHIELD_THORIUM_RESET
-    def_bool $(shields_list_contains,thorium_reset)
+config SHIELD_THORIUM_RESET_DONGLE
+    def_bool $(shields_list_contains,thorium_reset_dongle)
 
 config SHIELD_THORIUM_RESET_LEFT
     def_bool $(shields_list_contains,thorium_reset_left)
