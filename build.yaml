@@ -19,11 +19,11 @@
 #
 ---
 include:
-  - board: raytac_mdbt50q_rx
+  - board: mdbt50q_rx
     shield: thorium_reset_dongle
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble//zmk
     shield: thorium_reset_dongle
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble//zmk
     shield: thorium_reset_left
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble//zmk
     shield: thorium_reset_right
